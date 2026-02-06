@@ -4,7 +4,7 @@ Author: WojtaS52
 ## Poland Population Report
 
 ## 📊 Overview
-This project contains a comprehensive analysis of population demographics in Poland. It utilizes **Python**, **SQL** for data processing and **Power BI** for interactive visualization. The dashboard provides insights into demographic trends, including population density, age distribution, and year-over-year changes across different voivodeships.
+This project contains a comprehensive analysis of population demographics in Poland. It utilizes **Python**, **SQL** for data processing and **Power BI** for interactive visualization. The dashboard provides insights into demographic trends, including population density, age distribution, and year-over-year changes.
 
 ## 📂 Data Source
 The data used in this analysis comes from Statistics Poland (Główny Urząd Statystyczny).
