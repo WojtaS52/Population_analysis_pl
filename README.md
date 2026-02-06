@@ -1,5 +1,6 @@
 # Population_analysis_pl
 Author: WojtaS52
+The analysis and the report were written in Polish Language.
 
 ## Poland Population Report
 
